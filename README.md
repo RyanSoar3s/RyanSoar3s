@@ -69,7 +69,7 @@
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
 | **Guitar Academy Pro - Landing Page** | Uma landing page de um curso de guitarra. | `HTML 5`, `CSS 3`, `JavaScript` e `Vite` |
-| **Video Streaming** | Um serviço de streaming com cerca de 40 no catálog. |  `HTML 5`, `Tailwindcss`, `Angular`, `NodeJS` e `MongoDB` |
+| **Video Streaming** | Um serviço de streaming com cerca de 40 títulos no catálogo. |  `HTML 5`, `Tailwindcss`, `Angular`, `NodeJS` e `MongoDB` |
 
 ---
 
