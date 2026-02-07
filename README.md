@@ -66,9 +66,8 @@
   </a>
   <a href="https://ryansoares.com.br" target="_blank">
     <img
-      src="https://img.shields.io/badge/Portfólio-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"
+      src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
       height="35"
-      alt="Portfólio"
     />
   </a>
 
