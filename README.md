@@ -46,13 +46,13 @@
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ryan-soares-dev/" target="_blank" style="text-decoration:none">
+  <a href="https://www.linkedin.com/in/ryan-soares-dev/" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       height="35"
     />
   </a>
-  <a href="mailto:ryansoares.dev@gmail.com">
+  <a href="mailto:ryansoares.dev@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       height="35"
