@@ -44,7 +44,7 @@
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-two-indol-74.vercel.app/api?username=RyanSoar3s&theme=tokyonight&show_icons=true&count_private=true&cache_seconds=21600" />
+  <img src="https://github-readme-stats-two-indol-74.vercel.app/api?username=RyanSoar3s&theme=tokyonight&show_icons=true&count_private=true&cache_seconds=21600" height="170" />
   &nbsp;&nbsp;
   <img
     src="https://github-readme-stats-two-indol-74.vercel.app/api/top-langs/?username=RyanSoar3s&theme=tokyonight&langs_count=4"
