@@ -37,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40 alt="PostgreSQL" />
+          
 </div>
 
 ---
@@ -62,7 +64,7 @@
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
-| **Guitar Academy Pro - Landing Page** | Uma landing page de um curso de guitarra. | `HTML 5`, `CSS 3`, `JavaScript` e `Vite` |
+| **Fiamma Pizza - Pizzaria** | Fiamma Pizza é uma vitrine digital para uma pizzaria de inspiração napolitana. | `HTML 5`, `Tailwindcss`, `Angular`, `NodeJS` e `PostgreSQL` |
 | **Video Streaming** | Um serviço de streaming com cerca de 40 títulos no catálogo. |  `HTML 5`, `Tailwindcss`, `Angular`, `NodeJS` e `MongoDB` |
 
 ---
