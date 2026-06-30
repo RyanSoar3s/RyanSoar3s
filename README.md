@@ -38,6 +38,7 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40 alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="MongoDB" />
           
 </div>
 
@@ -64,6 +65,7 @@
 
 | Projeto | Descrição | Tech Stack |
 | :--- | :--- | :--- |
+| **Playground** | Uma aplicação web full-stack para executar trechos de código remotamente em ambientes isolados (sandboxes). | `HTML 5`, `Sass`, `Angular`, `Bun` e `Docker` |
 | **Fiamma Pizza - Pizzaria** | Fiamma Pizza é uma vitrine digital para uma pizzaria de inspiração napolitana. | `HTML 5`, `Tailwindcss`, `Angular`, `NodeJS` e `PostgreSQL` |
 | **Video Streaming** | Um serviço de streaming com cerca de 40 títulos no catálogo. |  `HTML 5`, `Tailwindcss`, `Angular`, `NodeJS` e `MongoDB` |
 
