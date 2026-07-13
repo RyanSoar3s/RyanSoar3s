@@ -51,6 +51,8 @@ Atualmente, meus estudos e projetos estão voltados para arquitetura de software
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40" alt="Bun" />
 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
@@ -66,14 +68,13 @@ Atualmente, meus estudos e projetos estão voltados para arquitetura de software
 ## 📚 Atualmente estudando
 
 - Angular
-- Node.js
+- NodeJS
 - Bun
+- GraphQL
 - Redis
 - MongoDB
 - PostgreSQL
 - Docker
-- Performance Web
-- Arquitetura de Software
 
 ---
 
